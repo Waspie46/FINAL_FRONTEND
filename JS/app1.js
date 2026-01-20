@@ -1,16 +1,16 @@
 const slides = [
     {
-        img: "./carousl1.jpg",
+        img: "/FINAL_PROJECT_WAYPOINT/PHOTOS/carousl1.jpg",
         text: "მიწის ნაკვეთის აზომვა / დაკვლავა",
         arrowColor: "white"
     },
     {
-        img: "./carousl2.webp",
+        img: "/FINAL_PROJECT_WAYPOINT/PHOTOS/carousl2.webp",
         text: "ბინის/სახლის შიდა აზომვითი ნახაზის მომზადება",
         arrowColor: "white"
     },
     {
-        img: "./carousl3.png",
+        img: "/FINAL_PROJECT_WAYPOINT/PHOTOS/carousl3.png",
         text: "ტოპოგრაფიული გეგმის მომზადება",
         arrowColor: "black"
     }
